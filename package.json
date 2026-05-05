@@ -1,0 +1,24 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgoyal6/Lab5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lgoyal6/Lab5/issues"
+  },
+  "homepage": "https://github.com/lgoyal6/Lab5#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
